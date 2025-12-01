@@ -26,6 +26,8 @@ This tutorial outlines the implementation of on-premises Active Directory within
 - Setup a new forest in dc-1
 - Create a Domain Admin user
 - Join Client-1 to your domain
+- Setup Remote Desktop for non-administrative users
+- Create additional users
 
 <h2>Setup a new forest in dc-1</h2>
 
@@ -129,4 +131,7 @@ Login to the Domain Controller and verify Client-1 shows up in ADUC. To verify t
 From Active Directory Users and Computers, expand mydomain.com, click on Computers and you will be able to see that client-1 is there, right click on Properties to inspect more information
 <p align left>
 <img width="501" height="349" alt="Screenshot 2025-11-30 211555" src="https://github.com/user-attachments/assets/e5f42107-5e52-4476-8ff0-6464cbe6d614" />
+
+
+
 # deploying-active-directory
