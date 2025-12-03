@@ -2,12 +2,9 @@
 <img src="https://i.imgur.com/pU5A58S.png" alt="Microsoft Active Directory Logo"/>
 </p>
 
-<h1>Active Directory Infrastructure in Azure (Virtual Machine) for Windows Users</h1>
-This tutorial outlines the implementation of on-premises Active Directory within Azure Virtual Machines.<br />
+<h1>Deploying Active Directory in Azure (Virtual Machine)</h1>
+After Installed Active Directory Infrastructure in Azure, we are ready to start deploying Active Directory in our Virtual Machine.<br />
 
-<h2>Video Demonstration</h2>
-
-- ### [YouTube: How to Deploy on-premises Active Directory within Azure Compute](https://www.youtube.com)
 
 <h2>Environments and Technologies Used</h2>
 
